@@ -1,0 +1,18 @@
+{
+    "name":"Khushboo Verma",
+    "bio":"Software Engineer @Appwrite | Prev. @Microsoft | Docker Captain",
+    "socials":[
+        {
+            "platform":"twitter",
+            "username":"khushbooverma_"
+        },
+        {
+            "platform":"linkedin",
+            "username":"verma-khushboo"
+        },
+        {
+            "platform":"github",
+            "username":""
+        }
+    ]
+}
