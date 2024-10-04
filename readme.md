@@ -1,6 +1,6 @@
 # First issue
 
-Live link: <a href="https://divanov11.github.io/first-os-issue/" target="_blank">View</a>
+Live link: <a href="https://first-os-issue.vercel.app/" target="_blank">View</a>
 
 ### How to contribute
 
