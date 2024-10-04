@@ -3,9 +3,14 @@
 Live link: <a href="https://divanov11.github.io/first-os-issue/" target="_blank">View</a>
 
 
-### Getting started
+### How to contribute
 
-- For repo
+- Fork repo
 - Create new branch
 - Add your profile to `index.html`
 - Submit pull request
+
+### Best practices
+- Open issue
+- read contribution guidelines
+- DONT submit large PR's
