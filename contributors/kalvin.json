@@ -1,0 +1,18 @@
+{
+    "name":"Kalvin Calimag",
+    "bio":"Software Engineer | Happy to Contribute!",
+    "socials":[
+        {
+            "platform":"twitter",
+            "username":"kalvincalimag_"
+        },
+        {
+            "platform":"linkedin",
+            "username":"@kalvin-calimag"
+        },
+        {
+            "platform":"github",
+            "username":"kalvincalimag"
+        }
+    ]
+}
