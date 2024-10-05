@@ -4,15 +4,15 @@
     "socials": [
         {
             "platform": "twitter",
-            "username": "https://x.com/unstoppableius"
+            "username": "unstoppableius"
         },
         {
             "platform": "linkedin",
-            "username": "https://www.linkedin.com/in/unstoppableayush/"
+            "username": "unstoppableayush"
         },
         {
             "platform": "github",
-            "username": "https://github.com/unstoppableayush"
+            "username": "unstoppableayush"
         }
     ]
 }
