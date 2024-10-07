@@ -7,6 +7,6 @@ import ayush from "./contributors/ayush.json";
 import usman_pervez "./contributors/Usman_Pervez.json"
 import shamsul from "./contributors/shamsul.json"
 
-const contributors = [dennis, kushboo, manali, meghana, ayush, kalvin, Usman_Pervez, shamsul];
+const contributors = [dennis, kushboo, manali, meghana, ayush, kalvin, usman_pervez, shamsul];
 
 export default contributors;
