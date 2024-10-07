@@ -4,9 +4,9 @@ import manali from "./contributors/manali.json";
 import meghana from "./contributors/meghana.json";
 import kalvin from "./contributors/kalvin.json";
 import ayush from "./contributors/ayush.json";
-import usman_pervez from "./contributors/Usman_Pervez.json"
+import Usman_Pervez from "./contributors/Usman_Pervez.json"
 import shamsul from "./contributors/shamsul.json"
 
-const contributors = [dennis, kushboo, manali, meghana, ayush, kalvin, usman_pervez, shamsul];
+const contributors = [dennis, kushboo, manali, meghana, ayush, kalvin, Usman_Pervez, shamsul];
 
 export default contributors;
