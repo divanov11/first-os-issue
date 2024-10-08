@@ -6,6 +6,7 @@ import kalvin from "./contributors/kalvin.json";
 import ayush from "./contributors/ayush.json";
 import usman_Pervez from "./contributors/usman_pervez.json";
 import shamsul from "./contributors/shamsul.json";
+import annshiv from  "./contributors/annshiv.json";
 
 const contributors = [
     dennis,
@@ -16,6 +17,7 @@ const contributors = [
     kalvin,
     usman_Pervez,
     shamsul,
+    annshiv,
 ];
 
 export default contributors;
