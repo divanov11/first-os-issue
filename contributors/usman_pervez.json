@@ -1,6 +1,6 @@
 {
     "name": "Usman Pervez",
-    "bio": "",
+    "bio": "Full Stack Developer | Software Engineering Student",
     "socials": [
         {
             "platform": "twitter",
@@ -8,11 +8,11 @@
         },
         {
             "platform": "linkedin",
-            "username": "www.linkedin.com/in/usmanpervez1"
+            "username": "usmanpervez1"
         },
         {
             "platform": "github",
-            "username": "https://github.com/Usman6768"
+            "username": "Usman6768"
         }
     ]
 }
