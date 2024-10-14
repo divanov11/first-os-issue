@@ -21,6 +21,7 @@ const contributors = [
     annshiv,
     Gehendra,
     madhusha,
+    nyando,
 ];
 
 export default contributors;

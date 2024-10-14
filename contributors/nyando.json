@@ -1,0 +1,18 @@
+{
+    "name": "Peter Nyando",
+    "bio": "Full Stack Software Developer | Building, Breaking & Fixing Things in Web | If you don't encrypt, you're unequipped",
+    "socials": [
+        {
+            "platform": "twitter",
+            "username": "anomalous254"
+        },
+        {
+            "platform": "linkedin",
+            "username": "Peter Nyando"
+        },
+        {
+            "platform": "github",
+            "username": "anomalous254"
+        }
+    ]
+}
